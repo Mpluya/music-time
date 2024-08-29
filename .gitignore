@@ -19,3 +19,7 @@ build/
 
 *.log*
 /classes/
+/apps.tanzu.vmware.com.ContainerApp/
+
+.ignoreme
+/.tanzu/
