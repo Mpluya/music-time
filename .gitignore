@@ -22,4 +22,4 @@ build/
 /apps.tanzu.vmware.com.ContainerApp/
 
 .ignoreme
-.ignoreme/.tanzu/
+.tanzu/
